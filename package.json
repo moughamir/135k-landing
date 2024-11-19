@@ -2,6 +2,11 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "email": "moughamir@gmail.com",
+    "name": "Mohamed Moughamir",
+    "url": "https://moughamir.github.io"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
